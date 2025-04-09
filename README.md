@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# 👋 Hi, my name is Viktoria
+Student of the Polar State University :snowflake:
+## I am passionate about drawing and design, which motivates me to study modern trends in graphic design and apply them in my projects :art:
+## Programming language: C++ and C# (under study) :computer:   
 <!--
 **OViktoriaO/OViktoriaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
